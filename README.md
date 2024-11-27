@@ -4,6 +4,10 @@ This app helps users log their daily health activities like steps, sleep, and wa
 
 ---
 
+## **Link to demo video**
+https://drive.google.com/file/d/1YEL352qas_PBN0vi4BmfkfyGj7y1OUGy/view?usp=drive_link
+
+---
 ## **Features**
 
 - **Daily Logging:**  
